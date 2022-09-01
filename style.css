@@ -16,6 +16,7 @@ html,body{
     background-image: url(happy-birthday-gif-fireworks.gif);
     background-repeat: no-repeat;
     background-size: cover;
+    overflow: hidden;
 }
 #image{
     height: 100%;
